@@ -5,6 +5,6 @@
 不要抱当然有太多的希望，其实我很懒
 
 使用方式
-curl -LO https://github.com/xmxbhh/my-arch-install-script/releases/download/0.4.5/arch_install.sh
+curl -LO https://github.com/xmxbhh/my-arch-install-script/releases/download/0.5.8/arch_install.sh
 
 bash arch_install.sh
